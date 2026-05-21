@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 
 <!--
 **sofiia-samigulina/sofiia-samigulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sofiia, graduated Bachelor at the Technical university of Kosice, Slovakia. My main tech stack is Python, SQL and basic machine learning.  I am seeking for junior and entry-level positions in AI Engineering and Data Science. 
+
+
