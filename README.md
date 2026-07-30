@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sofiia, graduated Bachelor at the Technical university of Kosice, Slovakia. My main tech stack is Python, SQL and basic machine learning.  I am seeking for junior and entry-level positions in AI Engineering and Data Science. 
+I'm Sofiia, graduated Bachelor at the Technical university of Kosice, Slovakia. My main tech stack is Python, SQL and basic machine learning.  I am seeking for full-time positions in Data Analytics and junior Data Engineering. 
 
 
