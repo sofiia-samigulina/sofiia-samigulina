@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sofiia, graduated Bachelor at the Technical university of Kosice, Slovakia. My main tech stack is Python, SQL and basic machine learning.  I am seeking for full-time positions in Data Analytics and junior Data Engineering. 
+I'm Sofiia. Data analyst with a BSc in Informatics from the Technical University of Kosice, 2026 and a background in marketing. 
+
+Hands-on project experience with SQL, PostgreSQL, Google Big Query, Power BI, Python and relational data modeling. Worked with marketing performance metrics, including CTR, CPC and CPA, and used data to support budget allocation decisions. 
+
 
 
