@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sofiia. Data analyst with a BSc in Informatics from the Technical University of Kosice, 2026 and a background in marketing. 
+I'm Sofiia. BSc in Informatics graduated in 2026 from the Technical University of Kosice. Looking for full-time positions in Data Analytics and Data Engineering in Slovakia. 
 
-Hands-on project experience with SQL, PostgreSQL, Google Big Query, Power BI, Python and relational data modeling. Worked with marketing performance metrics, including CTR, CPC and CPA, and used data to support budget allocation decisions. 
+Hands-on project experience with SQL, data warehouses (PostgreSQL, Google Big Query), Power BI, Python and relational data modeling. Experience at an advertising agency working with marketing performance metrics, including CTR, CPC and CPA, and used data to support budget allocation decisions. 
 
 
 
